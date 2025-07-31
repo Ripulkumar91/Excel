@@ -1,4 +1,4 @@
-#Coffee Shop Dashboard
+#Coffee Shop Dashboard.
 
 ## Objective:
 •	Monitor total sales and revenue, including quarterly progress.
