@@ -9,7 +9,8 @@
 
 - <a href=https://github.com/Ripulkumar91/Excel/blob/main/Movie%20finance%20dashboard.xlsx> Dashboard
 - <a href=https://github.com/Ripulkumar91/Excel/blob/main/movie_financial%20data.xlsx>Database
-- <img width="1024" height="965" alt="Movie finance Dahsboard" src="https://github.com/Ripulkumar91/Excel/blob/main/Movie%20finance%20dashboard.xlsx" />
+<img width="2614" height="983" alt="Movie finance Dashboard" src="https://github.com/user-attachments/assets/de5986e7-bb5f-49b1-8f22-4775756fbd63" />
+
 
 
 # Coffee Shop Dashboard.
@@ -22,5 +23,5 @@
 
 - <a href=https://github.com/Ripulkumar91/Excel/blob/main/Coffee%20sales%20dashboard.xlsx> Dashboard
 - <a href=https://github.com/Ripulkumar91/Excel/blob/main/Coffe_sales_Database.xlsx>Database
-- <img width="1024" height="965" alt="Coffee Shop Dahsboard" src="https://github.com/user-attachments/assets/629fa64d-8c88-402b-8c05-479b1ce1509d" />
+<img width="2034" height="1062" alt="Coffee Shop Dahsboard" src="https://github.com/user-attachments/assets/1650fb5d-d892-49ef-becd-c0544bdf83c1" />
 
