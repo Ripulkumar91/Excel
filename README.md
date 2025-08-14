@@ -1,7 +1,7 @@
 # Coffee Shop Dashboard.
 
 ## Objective:
-•	Monitor total sales and revenue, including quarterly progress.
+•	Monitor total sales and revenue, including quarterly progress.</n>
 •	Sales during weekdays by daypart and hour.
 •	Best and least selling coffee.
 •	Percentage of sales made via cards & cash
