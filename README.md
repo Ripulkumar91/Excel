@@ -1,3 +1,17 @@
+# Classic Car Dashboard.
+
+## Objective:
+•	Provide a comprehensive overview of sales performance, including total sales, orders, and profit.
+•	Track sales trends over time.
+•	Analyze sales distribution by (country) to prioritize markets with higher demand.
+•	Evaluate vendor performance to optimize decisions.
+•	Understand sales and orders by product category to guide inventory, marketing, and sales strategies.
+
+- <a href=https://github.com/Ripulkumar91/Excel/blob/main/Classic%20Model.xlsx> Dashboard
+- <a href=https://github.com/Ripulkumar91/Excel/blob/main/classic_models_dataset.zip>Database
+<img width="2185" height="1025" alt="Classic Cars Dashboard" src="https://github.com/user-attachments/assets/d54d9e10-7c51-4d1b-af0d-c2706f585dfc" />
+
+
 # Movie finance Dashboard.
 
 ## Objective:
